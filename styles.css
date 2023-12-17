@@ -23,7 +23,9 @@ body{
     align-items: center;
     flex-wrap: wrap;
     background-color: white;
-    margin: 40px;
+    justify-content: space-between;
+	align-items:center;
+	margin:40px;
     padding: 10px; 
     overflow-y: scroll;
 }
